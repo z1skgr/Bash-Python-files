@@ -1,0 +1,6 @@
+Portugal-Greece:1-2
+Spain-Russia:1-0
+Greece-Spain:1-1
+Russia-Portugal:0-2
+Spain-Portugal:0-1
+Russia-Greece:2-1

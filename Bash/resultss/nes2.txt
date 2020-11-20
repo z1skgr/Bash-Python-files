@@ -1,0 +1,6 @@
+Italy-Spain:1-1
+Russia-Poland:2-1
+Russia-Spain:1-1
+Poland-Italy:1-1
+Italy-Russia:1-1
+Spain-Poland:2-1
