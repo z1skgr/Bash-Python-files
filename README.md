@@ -1,7 +1,7 @@
 # Process Files
   bash-python
 
-#BASH
+# BASH
 # Regr
 The program accepts as program parameters a list of files. Assume that each file has lines of the format:
 **num1:num2**. Each file should contain at least 3
@@ -16,28 +16,28 @@ ordered based on scores. The results are exported to file.
 # computeSales
 The program reads records with receipts sales of products, is able to do a correctness check and is able to print after statistics requested.
 
-The input file format is like:
--------------------
-AFM:AAAAAAAA
-PRODUCT_NAME: QUANTITY UNIT_PRICE TOTAL_VALUE
-...
-PRODUCT_NAME: QUANTITY UNIT_PRICE TOTAL_VALUE
-TOTAL: TOTAL VALUE
---------------------
-AFM:BBBBBB
-PRODUCT_NAME: QUANTITY UNIT_PRICE TOTAL_VALUE
-...
-PRODUCT_NAME: QUANTITY UNIT_PRICE TOTAL_VALUE
-TOTAL: TOTAL VALUE
---------------------
+The input file format is like: <br />
+------------------- <br />
+AFM:AAAAAAAA <br />
+PRODUCT_NAME: QUANTITY UNIT_PRICE TOTAL_VALUE <br />
+... <br />
+PRODUCT_NAME: QUANTITY UNIT_PRICE TOTAL_VALUE <br />
+TOTAL: TOTAL VALUE <br />
+-------------------- <br />
+AFM:BBBBBB <br />
+PRODUCT_NAME: QUANTITY UNIT_PRICE TOTAL_VALUE <br />
+... <br />
+PRODUCT_NAME: QUANTITY UNIT_PRICE TOTAL_VALUE <br />
+TOTAL: TOTAL VALUE <br />
+-------------------- <br />
 
 Every input file satisfies constraints about numerical values and format it sustains.
 
 The program prints the following user menu repeatedly:
-1: read new input file 
-2: print statistics for a specific product, 
-3: print statistics for a specific AFM, 
-4: exit the program
+1: read new input file. <br />
+2: print statistics for a specific product. <br /> 
+3: print statistics for a specific AFM. <br />
+4: exit the program. <br />
 
 The program works for a non-specific archive length.
 
