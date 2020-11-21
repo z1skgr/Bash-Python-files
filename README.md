@@ -33,7 +33,7 @@ TOTAL: TOTAL VALUE <br />
 
 Every input file satisfies constraints about numerical values and format it sustains.
 
-The program prints the following user menu repeatedly:
+The program prints the following user menu repeatedly: <br />
 1: read new input file. <br />
 2: print statistics for a specific product. <br /> 
 3: print statistics for a specific AFM. <br />
@@ -47,7 +47,7 @@ The program works for a non-specific archive length.
 
 where **input1,input2,input3** are file names with the specified format for the regression program.
 
-**./results input1 **
+**./results input1**
 
 where **input1** is file name with the specified format for the results program.
 
