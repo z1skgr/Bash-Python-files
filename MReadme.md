@@ -2,7 +2,7 @@
 > File processing in scirpts and python
 
 ## Parts
-* [Bash](Readme.md)
+* [Bash](README.md)
 * [Python](mmReadme.md)
 
 
