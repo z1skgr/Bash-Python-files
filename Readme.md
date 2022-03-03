@@ -2,8 +2,8 @@
 > File processing in scirpts and python
 
 ## Parts
-* [Bash](BREADME.md)
-* [Python](Python/PReadme.md)
+* [Bash](Bash/README.md)
+* [Python](Python/README.md)
 
 ## Acknowledgments
 * This project was created for the requirements of the lesson Tools for the development of information systems and software
