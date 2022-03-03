@@ -6,7 +6,6 @@
 * [General Info](#general-information)
 * [Features](#features)
 * [How to run](#how-to-run)
-* [Acknowledgments](#acknowledgments)
 
 ## General Information
 `computeSales.py` reads `.txt` files, makes correctness check, and can print requested statistics.
@@ -90,10 +89,6 @@ $ python3.8 computeSales.py
 
 
 
-
-
-## Acknowledgments
-* This project was created for the requirements of the lesson Tools for the development of information systems and software
 
 
 [^1]: Every input file satisfies constraints about numerical values and format it sustains.
