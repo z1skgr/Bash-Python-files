@@ -3,7 +3,7 @@
 
 ## Parts
 * [Bash](BREADME.md)
-* [Python](PReadme.md)
+* [Python](Python/PReadme.md)
 
 
 
