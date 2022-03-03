@@ -1,11 +1,17 @@
 # Process Files
 
-
-
 * Linear Regression
+* File processing (.txt format)
+
+## Table of contents
+* [General Info](#general-information)
+* [Components](#components)
+* [Schematic](#schematic)
+* [Acknowledgements](#acknowledgements)
+
+## General Information
 
 
-# BASH
 # Regr
 The program accepts as program parameters a list of files. Assume that each file has lines of the format:
 **num1:num2**. Each file should contain at least 3
@@ -37,6 +43,6 @@ where **input1** is file name with the specified format for the results program.
 
 
 
-
+## Acknowledgements
 
 
