@@ -43,6 +43,5 @@ where **input1** is file name with the specified format for the results program.
 
 
 
-## Acknowledgements
 
 
