@@ -45,7 +45,7 @@ where **input1,input2,input3** are file names with the specified format for the 
 where **input1** is file name with the specified format for the results program.
 
 
-[^1]: The equations are also shown in the pronunciation in the form of .pdf with name
+[^1]: The equations are also shown in the pronunciation in the form of .pdf with name "lab"
 
 
 
