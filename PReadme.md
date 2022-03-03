@@ -1,4 +1,4 @@
-# PYTHON
+# Python
 > Program for processing input files in the format of receipts.
 
  
