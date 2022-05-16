@@ -51,9 +51,9 @@ Greece-Spain:2-1
 2.    Greece  4 4-4
 3.    Spain 4 2-2
 ```
-where `input1 => file name #1` etc <br>
 
-<br><br><br><br><br>
+
+<br><br><br><br>
 
 
 ## How to run
